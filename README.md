@@ -1,1 +1,2 @@
 # EZ-Order
+EZ order is a console application for food ordering management system that I made using C++ and MySQL via C/MySQL API library. This project is for my Workshop 1 course in university. All of the code is written by me except the MD5.h and MD5.cpp. These 2 file is from here ->https://github.com/JieweiWei thanks to the author I was able to implement hashing to store user password in database.
